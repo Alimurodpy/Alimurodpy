@@ -12,8 +12,8 @@
 ---
 
 ## 👋 About Me
+<img align="right" src="vecteezy_3d-python-programming-language-logo_12697295.png" width="200"/>
 
-<img align="right" src="https://thumbs.dreamstime.com/b/python-code-language-sign-python-code-language-sign-magnifying-glass-programming-coding-developing-concept-wireframe-low-171672441.jpg" width="200"/>
 
 - 👋 Hi, I'm **Alimurod**
 - 💻 **Backend Developer (Python)**
