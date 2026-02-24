@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jamshidbekpy&color=6F4EF2&style=flat-square" />
-  <a href="https://github.com/jamshidbekpy?tab=followers">
-    <img src="https://img.shields.io/github/followers/jamshidbekpy?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=alimurodpy&color=6F4EF2&style=flat-square" />
+  <a href="https://github.com/alimurodpy?tab=followers">
+    <img src="https://img.shields.io/github/followers/alimurodpy?style=social" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 <img align="right" src="https://thumbs.dreamstime.com/b/python-code-language-sign-python-code-language-sign-magnifying-glass-programming-coding-developing-concept-wireframe-low-171672441.jpg" width="200"/>
 
-- 👋 Hi, I'm **Jamshidbek**
+- 👋 Hi, I'm **Alimurod**
 - 💻 **Backend Developer (Python)**
 - 🧠 Competitive Programmer
 - 🚀 Passionate about building scalable systems
@@ -43,9 +43,9 @@
 
 ## 🔗 Profiles & Links
 
-- 💻 **LeetCode**: https://leetcode.com/perfect_IQ/
-- 📄 **LinkedIn**: https://www.linkedin.com/in/jamshidbek-shodibekov-python/
-- 📫 **Email**: jamshidbekdev04@gmail.com
+- 💻 **LeetCode**: https://leetcode.com/alimurodpy/
+- 📄 **LinkedIn**: https://www.linkedin.com/in/alimurod-akbarov/
+- 📫 **Email**: alimurodakbarov@gmail.com
 
 ---
 
@@ -68,12 +68,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamshidbekpy&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alimurodpy&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jamshidbekpy&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jamshidbekpy&theme=github_dark&utcOffset=5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alimurodpy&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alimurodpy&theme=github_dark&utcOffset=5" />
 </p>
 
 ---
@@ -81,22 +81,22 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jamshidbekpy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jamshidbekpy&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alimurodpy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alimurodpy&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ---
 
 ## 📉 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jamshidbekpy&theme=github-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alimurodpy&theme=github-dark)
 
 ---
 
 ## ⏱️ WakaTime Statistics
 
 <p align="center">
-  <a href="https://wakatime.com/@b8fa7b31-ca76-41c9-b66c-52ec093a80d4"><img src="https://wakatime.com/badge/user/b8fa7b31-ca76-41c9-b66c-52ec093a80d4.svg" alt="Total time coded since Dec 20 2025" /></a>
+  <a href="https://wakatime.com/@alimurodpy"><img src="https://wakatime.com/badge/user/alimurodpy.svg" alt="Total time coded since Dec 20 2025" /></a>
 </p>
 
 
