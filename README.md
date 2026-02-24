@@ -29,7 +29,7 @@
 <p align="center">
   <img src="https://ictacademy.uz/_next/image?url=%2Flogolight.png&w=256&q=75" height="28"/> 
   <a href="https://ictacademy.uz" target="_blank">
-    <img src="https://img.shields.io/badge/ICT%20ACADEMY-Backend%20Developer-indigo?style=for-the-badge"/ style="text-align:center">
+    <img src="https://img.shields.io/badge/ICT%20ACADEMY-Backend%20Developer-green?style=for-the-badge"/ style="text-align:center">
   </a>
 </p>
 
