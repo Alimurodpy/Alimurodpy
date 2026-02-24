@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=6F4EF2&size=26&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Backend+Developer+%7C+Python+Engineer;Competitive+Programmer;Django+%7C+FastAPI+%7C+REST+API" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&color=32CD32&size=26&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Backend+Developer+%7C+Python+Engineer;Competitive+Programmer;Django+%7C+FastAPI+%7C+REST+API" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alimurodpy&color=6F4EF2&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=alimurodpy&color=32CD32&style=flat-square" />
   <a href="https://github.com/alimurodpy?tab=followers">
     <img src="https://img.shields.io/github/followers/alimurodpy?style=social" />
   </a>
@@ -33,7 +33,7 @@
   </a>
 </p>
 
-### Backend Developer — **UIC GROUP**
+### Backend Developer — **ICT ACADEMY**
 - 🛠️ **Python, Django, REST API, FastAPI, PostgreSQL**
 - 📊 Building and maintaining backend services for statistical data systems
 - ⚙️ Working with APIs, data processing, and scalable backend architecture
@@ -96,8 +96,7 @@
 ## ⏱️ WakaTime Statistics
 
 <p align="center">
-  <a href="https://wakatime.com/@alimurodpy"><img src="https://wakatime.com/badge/user/alimurodpy.svg" alt="Total time coded since Dec 20 2025" /></a>
+  <a href="https://wakatime.com/@f84aa170-5a5c-45c2-b6f1-c056cf25aac3"><img src="https://wakatime.com/badge/user/f84aa170-5a5c-45c2-b6f1-c056cf25aac3.svg" alt="Total time coded since Dec 20 2025" /></a>
 </p>
-
 
 ⭐ **If you like my profile, don’t forget to follow!**
